@@ -34,8 +34,10 @@
 
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <p align="left">
-<a href="https://linkedin.com/in/shashank-singh-653b25226" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin:  Shashank Singh-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"  /></a><br><br>
-<a href="https://instagram.com/shashanksingh.7" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram: shashanksingh.7-%23EA4335.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="shashanksingh.7"  /></a>
+<a href="https://linkedin.com/in/shashank-singh-653b25226" target="_blank"><img align="center" src="https://img.shields.io/badge/linkedin:  Shashank Singh-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"  /></a><br><br>
+<a href="https://instagram.com/shashanksingh.7" target="_blank"><img align="center" src="https://img.shields.io/badge/Instagram: shashanksingh.7-%23EA4335.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="shashanksingh.7"  /></a><br><br>
+<a href="shashanksingh07011@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/gmail:  shashanksingh07011@gmail.com-%2300acee.svg?color=D98A02&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"  />
+ 
 </p>
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shashank0711&label=Profile%20views&color=0e75b6&style=flat" alt="shashank0711" /> </p>
